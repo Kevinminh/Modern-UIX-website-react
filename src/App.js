@@ -1,10 +1,7 @@
 import React from 'react';
 
-import Article from "./components/article/Article";
-import Brand from "./components/brand/Brand";
-import Cta from "./components/cta/Cta";
-import Feature from "./components/feature/Feature";
-import Navbar from "./components/navbar/Navbar";
+import { Article, Brand, Cta } from "./components";
+
 
 
 const App = () => {
